@@ -1,1 +1,1 @@
-# Bst-and-Dijkstras-Shortest-Path
+# Binary Search Tree and Dijkstra's Shortest Path Algorithm
